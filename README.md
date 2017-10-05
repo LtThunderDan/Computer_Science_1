@@ -2,3 +2,4 @@
 CS 126 - Computer Science 1 Projects
 Northern Arizona University
 Freshman year
+In python
